@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there! I'm Sepideh Biglarizadeh
+---
 
-<!--
-**sepidehbiglarizadeh/sepidehbiglarizadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :woman_technologist: About Me :
 
-Here are some ideas to get you started:
+<div>
+  <p>I'm a junior Front-end Developer</p>
+  <ul>
+    <li>As a front-end developer, I create web applications</li>
+    <li>In my free time, I practice coding and learn new skills</li>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### :hammer_and_wrench: Skills :
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,next)](https://skillicons.dev)
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sepidehbiglarizadeh&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepidehbiglarizadeh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
